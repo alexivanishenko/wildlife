@@ -70,7 +70,7 @@ body {
 /* Head section */
 
 .head__section {
-  background: url(../img/header_bg.png) center no-repeat #02160b;
+  background: url(../img/header_bg.png) center/cover no-repeat;
   height: 779px;
 }
 
@@ -341,7 +341,7 @@ body {
 /* Footer section */
 
 .footer {
-  background: url(../img/footer_bg.png) center no-repeat #181617;
+  background: url(../img/footer_bg.png) center/cover no-repeat;
   height: 359px;
 }
 
