@@ -12,11 +12,8 @@ Project is created with:
 * HTML version: 5
 * CSS version: 3
 * Flexbox
-* JQuery:
-  * tabs
-  * flip
-  * smooth scrolling
-  * slick carousel
+* JavaScript:  
+  * swiper carousel
 	
 ## Setup
 To run this project, clone it from GitHub using next command:
