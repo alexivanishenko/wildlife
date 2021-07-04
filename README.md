@@ -5,7 +5,7 @@
 
 ## General info
 This is a landing page "Wildlife" project.  
-Deploy: https://alexivanishenko.github.io/wildlife/
+Deploy: https://ivoleser.github.io/wildlife/
 	
 ## Technologies
 Project is created with:
@@ -18,4 +18,4 @@ Project is created with:
 ## Setup
 To run this project, clone it from GitHub using next command:
 
-$ git clone https://github.com/alexivanishenko/wildlife.git
+$ git clone https://github.com/ivoleser/wildlife.git
